@@ -1,6 +1,6 @@
 #DIGITALCLOCK
 
-[]()
+[https://digital-clock-sajai.netlify.app/](https://digital-clock-sajai.netlify.app/)
 
 ###project details
 
